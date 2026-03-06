@@ -598,7 +598,7 @@ class Program
         }
     }
 
-    // SALIR
+    // SALIR //
 
     static void ConfirmExitAndSave()
     {
